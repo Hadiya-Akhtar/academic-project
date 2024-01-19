@@ -1,0 +1,13 @@
+body{
+    padding: 50px;
+}
+.container{
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 100px;
+    box-shadow: red;
+}
+.form_group{
+    margin-bottom: 30px;
+
+}
